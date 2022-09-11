@@ -5,6 +5,9 @@
   <a href="https://discordapp.com/users/780424233343647794"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-256.png"></a>&nbsp;&nbsp;   
 </p>  
 
+<details>
+  <summary>A "boring" programmer section</summary>
+  
 ## Programming is hard (As an idealist)
 Everyone doing programming with their own perspective with no general perspective how to do it. I like to code in any unopinionated and opinionated environments and any programming style my teams would like to use. I could adapt with it. but if asked, I prefer to use a programming style that can separate each utility, library and business logic in folders, and write it in a functional style in a language that allows it to do that (if I can I force to). Nevertheless, I'm not against programming languages and other programming language paradigms that allows the different things.
 
@@ -49,3 +52,4 @@ INSPIRED BY RAMDA ❤️
 
 ## A "boring" programmer.
 Most programmers forcing their way how to do programming, but I prefer not, especially to the point of bothering other people, I'm a boring programmer, the truth is, I only use what I need, I just write code in a formal and described way with a collection of functions and emphaty (mostly to avoid long-term bugs :smile:), that's all. But yes, I can adapt in any programming environment and multidisciplinary teams.
+</details>
