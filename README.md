@@ -5,6 +5,10 @@
   <a href="https://discordapp.com/users/780424233343647794"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-256.png"></a>&nbsp;&nbsp;   
 </p>  
 
+## Currently listening to
+
+<a href="https://volt.fm/fzn0x" target="_blank"><img src="https://my-spotify-badge.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
+
 <details>
   <summary>A "boring" programmer section</summary>
   
